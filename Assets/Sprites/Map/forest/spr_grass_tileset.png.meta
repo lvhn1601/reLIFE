@@ -1,0 +1,2472 @@
+fileFormatVersion: 2
+guid: 1a7fc1e94ac1035409b848d03f1b35d3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_grass_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ea21fc54951a542a4c0738af51cd2a
+      internalID: 370776305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9394222b397b40040aaccea7a107d56e
+      internalID: 855001436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068888614981a8540be1a194efb4d556
+      internalID: 1253461178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79781d22a629eb4a8e1f370515bb8bb
+      internalID: 879298340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece6d7929fdfb434db144c2a3fd41c56
+      internalID: 1870748309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c31471d448c5a42a195a065f0f0d48
+      internalID: -600307498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12c50c62c09d6146a1e049b122ce13e
+      internalID: 259387102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bccadca1f5beff4cba758462f5fc82b
+      internalID: 956063640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bf5ff0ed096c749a05d65ce561da8a
+      internalID: 1051583549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f943362174954614693023e636497bf6
+      internalID: 1245163337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac28b18c10508704fa4575d45d3a8bb7
+      internalID: 569929597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfeb40fc1075814f8df11ccd285d5dd
+      internalID: -1408599773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0949ab065ec4f8a4e81abad105a586d9
+      internalID: -1594447389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0240f9bd2b11e46af1c95c13c91aa3
+      internalID: 1001516954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b45d5144fcb774f8b1a9170d572c5f
+      internalID: -1115280827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d459da91a9817e54b9d883867f265b21
+      internalID: 494343211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28fca497fb31a346bf8427815cfe94a
+      internalID: -1873801945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6d05ece8c390740adbc1017bdce793
+      internalID: -907184039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21f892483bba3a428bc9b69be018ec0
+      internalID: -1504966658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed09584f08970a4fb24eeb3e31f041e
+      internalID: 266079573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b0d7a9b0315d84788cb3bbb03f6b5d
+      internalID: -956951242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31497e5b66faa214f99cb734fc439ae5
+      internalID: 126534933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683947859b5a7a847869d1205cc2a27b
+      internalID: 1678510937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e6a2a8c4f4b89419a741baa54b967e
+      internalID: -873099089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_99
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f4adbcd39b8314ca50454f6159115f
+      internalID: 1263200596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107d1f1f0fa75b8478ad7ddb0c78ed0d
+      internalID: -1367550714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_134
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50402063cb5f45041a6dda000c31a1c3
+      internalID: -1815563048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb85ec38206936458fe4f509b3862b5
+      internalID: 1489160491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_138
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f030559abf124b4f951e02a940e8781
+      internalID: -876101210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_147
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fbe16626e5e244097d61321ed1dfbe
+      internalID: 752584171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_148
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da76fcbec2bec4c850ddcdf9126c14
+      internalID: -1982228794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_159
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3588a8f71df77438bd7df8a3f2cbce
+      internalID: -420391053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_160
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38d51c0288759246a0073c9cd97da7b
+      internalID: -1109982058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb768ee26e9f153459a57b0034b3d289
+      internalID: 1320421047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c90a1d596efd134e98944ce3c7e47ae
+      internalID: 1840739329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b3b38f1969084085d8f96485cb7c5
+      internalID: -100473342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea26c3e1336d29f48bb3ad9d9b505f6d
+      internalID: -1810765316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31274f006d94a744f9e24d17dbda09cf
+      internalID: 1855821623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb9d68f8fd70e343911553b038f290f
+      internalID: 1128768838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6919b6a18d6874e8f6e2e96505d01c
+      internalID: -956746850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a9fe3837ad5845ba28bca0e762f87
+      internalID: -1292169115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a19f790643d646be21648f8211497
+      internalID: -327692272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ee46b06d20b7e449311d7b9d6d22cd
+      internalID: -1250179292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742ae6d212369dc4bb3fb8fbd1052efb
+      internalID: 310263848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097bf696db4296046b3d230ddaea9342
+      internalID: -627707618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81116876db7aaf24bb8ab1f472b11aa7
+      internalID: 186959253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34c8f5565d9fd9468e18b762ca11412
+      internalID: -1986765114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd915914dd90a9b4e9d6c13af147ef50
+      internalID: -619497640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f08adc02a78e146b3607e9400aba8f
+      internalID: 1371440811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9ae5b054697324ebd95de740998941
+      internalID: 75233291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08751fabaef4b7540aff047c5b656e5b
+      internalID: 74042223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d8ded4e1c97ae498bc5c6ddd8f1209
+      internalID: -1109184810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ba2689920202248b38d103303d1a89
+      internalID: 742902258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4b56a634f55cb4ba41b27baf195bee
+      internalID: 1252485603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0d418f9796ffe46874f90f9ae17157
+      internalID: -188051491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfb2887c74601a479711b8d2d8c97df
+      internalID: -486553823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4574e9ab3a6055347b56d30d105b10c9
+      internalID: -1287762915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86deb7f0007da464fb42af3a31db3e56
+      internalID: 826712760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a609c111fccb48a419a35bb976ab0b1f
+      internalID: -1151648097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91433e06834db1d45bf643de72f3f31f
+      internalID: -800004645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4cd445fd9321747bc7b065bd1df1e1
+      internalID: -1660325444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad359b12eed5ed4fb5e49586c8975b2
+      internalID: 346165236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_v_bridge_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be6911e176b98a46b907e2c8e19685e
+      internalID: -8155190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b72f080b8670d845be98b81d80fd588
+      internalID: 1147990678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90b57ea853aa5f4490bb2c39ab6602b
+      internalID: -815958090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9b211373e81474e9c47ac7735c2995
+      internalID: -1931725574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e12405aaa91ffe4893ec0e4bb5ae11c
+      internalID: 1052877212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313fcbefe6ac9fb41a91d59d663073be
+      internalID: 1412394866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_bridge_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00035323818058b4387257c4e140dd2f
+      internalID: -1649969183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c04d372de37c8428f30afb4e34f9ce
+      internalID: -281645262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf44e8ee0d5cb341a36e0c9cd8c221b
+      internalID: -2125485890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bf24beb6d134046a2156e0951f88d7
+      internalID: 1530895810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305e3728f2808da47ab5046990286f24
+      internalID: 1625077898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e289c9c82ed36468631addc98811a7
+      internalID: 1140734567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebb8d3e2e867ed4c8029596ac355e3a
+      internalID: -272306267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06d095adbb178844a4648e580d25732
+      internalID: 593659986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03027a02520dfa745a40e8296b994f86
+      internalID: 1745250642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a532949f688a84e9939678bf3a6297
+      internalID: -800264826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0934301c851a6384db03a702dce8fcef
+      internalID: -1389765732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb4cbd9f050c4849b79c3bdca82be3a
+      internalID: -1530790229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ad48b38df6bf244a72e4f371397640
+      internalID: -822099157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0092d46df4fa46144a2b28a22202128b
+      internalID: 199074393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b60bdd8b906f6e4f80b603970d3b6ed
+      internalID: -634640239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d1b637a9dde0148b08142020a5e415
+      internalID: -975822660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fences_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6a096dc88b0b04ab745463431f049c
+      internalID: 328045911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a13ba8fb028824c8100c64c3183d3f
+      internalID: -71576612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3a8072f84b2df4c8800fee7b70765c
+      internalID: 2141515683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26242ad5716edf46a6f34f9f68c7e51
+      internalID: 1049593933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c75799f697ef064d9ead1d66a874672
+      internalID: 1573441980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8987137a1371246845270b945d3f05
+      internalID: -523155431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f47f50334af7b40a1ef9418fbf9208
+      internalID: -1599853209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391c779fb77617c43b6624e275cad411
+      internalID: -198515404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bffa79827e25b043871841be8d6e315
+      internalID: -184620282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be76b83fccc6efd47aa0b99ea218d299
+      internalID: 658038986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cef9c27831f8784e882ed23e2971128
+      internalID: -2083118821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b760bf3e17d8b49a304be184aee141
+      internalID: 766340435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_grass_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e7b906110e7ab4dadece8348fa433d
+      internalID: 1831927844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spr_bridge_0: 1320421047
+      spr_bridge_1: 1840739329
+      spr_bridge_10: -486553823
+      spr_bridge_11: -1287762915
+      spr_bridge_12: 1147990678
+      spr_bridge_13: -815958090
+      spr_bridge_14: -1931725574
+      spr_bridge_15: 1052877212
+      spr_bridge_16: 1412394866
+      spr_bridge_17: -1649969183
+      spr_bridge_2: -100473342
+      spr_bridge_3: -1810765316
+      spr_bridge_4: 1855821623
+      spr_bridge_5: 1128768838
+      spr_bridge_6: 186959253
+      spr_bridge_7: -1986765114
+      spr_bridge_8: -619497640
+      spr_bridge_9: -188051491
+      spr_fences_0: 2062579715
+      spr_fences_1: 2043373408
+      spr_fences_10: -167854963
+      spr_fences_11: 935498509
+      spr_fences_12: -424684131
+      spr_fences_13: -969920333
+      spr_fences_14: -969256511
+      spr_fences_15: 1051228312
+      spr_fences_16: 151960334
+      spr_fences_17: -1627152434
+      spr_fences_18: -1619569661
+      spr_fences_19: 222114632
+      spr_fences_2: -700819068
+      spr_fences_3: 1504297078
+      spr_fences_4: 1265823330
+      spr_fences_5: 42433156
+      spr_fences_6: -2024196149
+      spr_fences_7: 1666423594
+      spr_fences_8: -1724171778
+      spr_fences_9: -1182708019
+      spr_grass_tileset_0: 370776305
+      spr_grass_tileset_1: 855001436
+      spr_grass_tileset_10: -1599853209
+      spr_grass_tileset_100: 38776562
+      spr_grass_tileset_101: 121324231
+      spr_grass_tileset_102: -1155163172
+      spr_grass_tileset_103: -940530705
+      spr_grass_tileset_104: -438702141
+      spr_grass_tileset_105: 1742187428
+      spr_grass_tileset_106: -1361604852
+      spr_grass_tileset_107: -802521258
+      spr_grass_tileset_108: 1063993209
+      spr_grass_tileset_109: -334359945
+      spr_grass_tileset_11: -198515404
+      spr_grass_tileset_110: 22729570
+      spr_grass_tileset_111: -1700053294
+      spr_grass_tileset_112: 1492593775
+      spr_grass_tileset_113: -277708643
+      spr_grass_tileset_114: 217743276
+      spr_grass_tileset_115: 1985956269
+      spr_grass_tileset_116: -1367550714
+      spr_grass_tileset_117: -1766895494
+      spr_grass_tileset_118: 912659979
+      spr_grass_tileset_119: 1689324298
+      spr_grass_tileset_12: -184620282
+      spr_grass_tileset_120: -1975276155
+      spr_grass_tileset_121: 1272457394
+      spr_grass_tileset_122: -301836065
+      spr_grass_tileset_123: -817760727
+      spr_grass_tileset_124: -355864974
+      spr_grass_tileset_125: 1472778436
+      spr_grass_tileset_126: 532194802
+      spr_grass_tileset_127: -1783377325
+      spr_grass_tileset_128: -872011146
+      spr_grass_tileset_129: -1114551440
+      spr_grass_tileset_13: 658038986
+      spr_grass_tileset_130: -2043855349
+      spr_grass_tileset_131: 1658130334
+      spr_grass_tileset_132: -183895692
+      spr_grass_tileset_133: 1829702202
+      spr_grass_tileset_134: -1815563048
+      spr_grass_tileset_135: 1489160491
+      spr_grass_tileset_136: 1253315287
+      spr_grass_tileset_137: -812843397
+      spr_grass_tileset_138: -876101210
+      spr_grass_tileset_139: -2112155715
+      spr_grass_tileset_14: -2083118821
+      spr_grass_tileset_140: -323845460
+      spr_grass_tileset_141: 2098648560
+      spr_grass_tileset_142: 1687832166
+      spr_grass_tileset_143: -896567892
+      spr_grass_tileset_144: 349497851
+      spr_grass_tileset_145: 19765393
+      spr_grass_tileset_146: -1113616615
+      spr_grass_tileset_147: 752584171
+      spr_grass_tileset_148: -1982228794
+      spr_grass_tileset_149: 1186194499
+      spr_grass_tileset_15: 879298340
+      spr_grass_tileset_150: 1292729357
+      spr_grass_tileset_151: -688159957
+      spr_grass_tileset_152: -1491297892
+      spr_grass_tileset_153: -847533527
+      spr_grass_tileset_154: 1568258710
+      spr_grass_tileset_155: -1354343230
+      spr_grass_tileset_156: 1373524545
+      spr_grass_tileset_157: -510936299
+      spr_grass_tileset_158: 586598123
+      spr_grass_tileset_159: -420391053
+      spr_grass_tileset_16: 1870748309
+      spr_grass_tileset_160: -1109982058
+      spr_grass_tileset_161: 1329261342
+      spr_grass_tileset_162: 1808191736
+      spr_grass_tileset_163: 2108655660
+      spr_grass_tileset_164: 1226259664
+      spr_grass_tileset_165: -1176916224
+      spr_grass_tileset_166: -1005061616
+      spr_grass_tileset_167: -235840263
+      spr_grass_tileset_168: -1724136032
+      spr_grass_tileset_169: -1533093917
+      spr_grass_tileset_17: 766340435
+      spr_grass_tileset_176: -1739106674
+      spr_grass_tileset_177: -1806866776
+      spr_grass_tileset_178: -381419018
+      spr_grass_tileset_179: -1876689320
+      spr_grass_tileset_18: 1621496031
+      spr_grass_tileset_180: -1097951057
+      spr_grass_tileset_181: -768778269
+      spr_grass_tileset_182: -518204077
+      spr_grass_tileset_19: -1420509478
+      spr_grass_tileset_192: -1868563569
+      spr_grass_tileset_193: 118133404
+      spr_grass_tileset_194: -1059756053
+      spr_grass_tileset_195: -1933773524
+      spr_grass_tileset_196: 285362885
+      spr_grass_tileset_197: -1436396235
+      spr_grass_tileset_198: 1414086
+      spr_grass_tileset_199: -1437523455
+      spr_grass_tileset_2: -281645262
+      spr_grass_tileset_20: 1831927844
+      spr_grass_tileset_200: -447904203
+      spr_grass_tileset_21: -320965276
+      spr_grass_tileset_210: -1210341649
+      spr_grass_tileset_211: 1729634933
+      spr_grass_tileset_212: -2052826500
+      spr_grass_tileset_213: -370595445
+      spr_grass_tileset_214: -836989124
+      spr_grass_tileset_215: 2058274948
+      spr_grass_tileset_216: 512385813
+      spr_grass_tileset_217: -1294270610
+      spr_grass_tileset_218: -1164956038
+      spr_grass_tileset_22: 502268948
+      spr_grass_tileset_228: 777599072
+      spr_grass_tileset_229: 170963537
+      spr_grass_tileset_23: -476681591
+      spr_grass_tileset_230: 1225450269
+      spr_grass_tileset_231: 816595945
+      spr_grass_tileset_232: -1408594220
+      spr_grass_tileset_233: 308574917
+      spr_grass_tileset_234: 1023497960
+      spr_grass_tileset_235: 2046849927
+      spr_grass_tileset_236: -134982650
+      spr_grass_tileset_237: -1730147869
+      spr_grass_tileset_238: -1677304098
+      spr_grass_tileset_239: 157539174
+      spr_grass_tileset_24: 484672366
+      spr_grass_tileset_240: 1904245811
+      spr_grass_tileset_244: 826538296
+      spr_grass_tileset_245: 523811842
+      spr_grass_tileset_246: 1175735056
+      spr_grass_tileset_247: -162507671
+      spr_grass_tileset_248: -2142500099
+      spr_grass_tileset_249: -1233115376
+      spr_grass_tileset_25: 1499583882
+      spr_grass_tileset_250: -1796974052
+      spr_grass_tileset_251: -1171822023
+      spr_grass_tileset_252: -1496401455
+      spr_grass_tileset_253: -1603469328
+      spr_grass_tileset_254: -277689978
+      spr_grass_tileset_255: 702337385
+      spr_grass_tileset_256: 903415305
+      spr_grass_tileset_257: 1346576398
+      spr_grass_tileset_258: -2105983558
+      spr_grass_tileset_259: 532734652
+      spr_grass_tileset_26: 321223707
+      spr_grass_tileset_260: -1190872287
+      spr_grass_tileset_261: -972948971
+      spr_grass_tileset_262: -888327154
+      spr_grass_tileset_263: -2068520711
+      spr_grass_tileset_264: 1895312071
+      spr_grass_tileset_265: 1633068394
+      spr_grass_tileset_266: 1565604985
+      spr_grass_tileset_267: -1759171088
+      spr_grass_tileset_268: -684226202
+      spr_grass_tileset_269: 660544621
+      spr_grass_tileset_270: 135797406
+      spr_grass_tileset_271: 1373822074
+      spr_grass_tileset_272: -1519766459
+      spr_grass_tileset_273: -166760081
+      spr_grass_tileset_274: 1486421044
+      spr_grass_tileset_275: 161944656
+      spr_grass_tileset_276: 603105790
+      spr_grass_tileset_277: 1980470143
+      spr_grass_tileset_278: 1565634211
+      spr_grass_tileset_279: -132877370
+      spr_grass_tileset_28: -600307498
+      spr_grass_tileset_280: -713604690
+      spr_grass_tileset_281: 1683948737
+      spr_grass_tileset_282: 1256680702
+      spr_grass_tileset_283: 1463295010
+      spr_grass_tileset_284: -707346543
+      spr_grass_tileset_285: -495242
+      spr_grass_tileset_286: 791572543
+      spr_grass_tileset_287: -2002298627
+      spr_grass_tileset_288: 232216451
+      spr_grass_tileset_289: 980518983
+      spr_grass_tileset_29: 259387102
+      spr_grass_tileset_290: -1451724010
+      spr_grass_tileset_291: 480969377
+      spr_grass_tileset_292: -285026729
+      spr_grass_tileset_293: -519751099
+      spr_grass_tileset_294: 508540448
+      spr_grass_tileset_295: -29605992
+      spr_grass_tileset_296: -88826072
+      spr_grass_tileset_297: 895850006
+      spr_grass_tileset_298: -1847669259
+      spr_grass_tileset_299: 741849426
+      spr_grass_tileset_3: 1253461178
+      spr_grass_tileset_30: 956063640
+      spr_grass_tileset_300: 1573863500
+      spr_grass_tileset_31: 1051583549
+      spr_grass_tileset_32: 1228032350
+      spr_grass_tileset_35: 1037903154
+      spr_grass_tileset_37: 1200805638
+      spr_grass_tileset_38: -1685894106
+      spr_grass_tileset_39: -1152003739
+      spr_grass_tileset_4: -71576612
+      spr_grass_tileset_40: 1245163337
+      spr_grass_tileset_41: 569929597
+      spr_grass_tileset_42: 1554914329
+      spr_grass_tileset_43: -1408599773
+      spr_grass_tileset_44: -1594447389
+      spr_grass_tileset_45: 407329509
+      spr_grass_tileset_46: 1416674173
+      spr_grass_tileset_47: 1001516954
+      spr_grass_tileset_48: 1430477816
+      spr_grass_tileset_49: 403407176
+      spr_grass_tileset_5: 2141515683
+      spr_grass_tileset_50: -1434677690
+      spr_grass_tileset_51: -1476019143
+      spr_grass_tileset_52: -1115280827
+      spr_grass_tileset_53: -592823264
+      spr_grass_tileset_54: -645108696
+      spr_grass_tileset_55: 2111892294
+      spr_grass_tileset_56: 494343211
+      spr_grass_tileset_57: -1873801945
+      spr_grass_tileset_58: -907184039
+      spr_grass_tileset_59: -230955400
+      spr_grass_tileset_6: 1049593933
+      spr_grass_tileset_60: 214939817
+      spr_grass_tileset_61: 725949239
+      spr_grass_tileset_62: 927856355
+      spr_grass_tileset_63: -548903741
+      spr_grass_tileset_64: 934827892
+      spr_grass_tileset_65: 1564635832
+      spr_grass_tileset_66: -559136891
+      spr_grass_tileset_67: 992396901
+      spr_grass_tileset_68: -938024663
+      spr_grass_tileset_69: 962309987
+      spr_grass_tileset_7: 1573441980
+      spr_grass_tileset_70: -2130226808
+      spr_grass_tileset_71: -1842358228
+      spr_grass_tileset_72: -262551599
+      spr_grass_tileset_73: -1504966658
+      spr_grass_tileset_74: -1890776259
+      spr_grass_tileset_75: 119403181
+      spr_grass_tileset_76: -1701422462
+      spr_grass_tileset_77: -54884138
+      spr_grass_tileset_78: 330847008
+      spr_grass_tileset_79: -1367909960
+      spr_grass_tileset_8: -523155431
+      spr_grass_tileset_80: -817380147
+      spr_grass_tileset_81: 435930125
+      spr_grass_tileset_82: -1899052598
+      spr_grass_tileset_83: 2047501618
+      spr_grass_tileset_84: 266079573
+      spr_grass_tileset_85: -956951242
+      spr_grass_tileset_86: -1899087759
+      spr_grass_tileset_87: 2094605451
+      spr_grass_tileset_88: 201384285
+      spr_grass_tileset_89: 220958107
+      spr_grass_tileset_9: -716856517
+      spr_grass_tileset_90: -788164866
+      spr_grass_tileset_91: -2129234455
+      spr_grass_tileset_92: 1439950224
+      spr_grass_tileset_93: 126534933
+      spr_grass_tileset_94: 662763238
+      spr_grass_tileset_95: 21345636
+      spr_grass_tileset_96: 42770592
+      spr_grass_tileset_97: 1678510937
+      spr_grass_tileset_98: -873099089
+      spr_grass_tileset_99: 1263200596
+      spr_v_bridge_0: -956746850
+      spr_v_bridge_1: -1292169115
+      spr_v_bridge_10: 742902258
+      spr_v_bridge_11: 1252485603
+      spr_v_bridge_12: 826712760
+      spr_v_bridge_13: -1151648097
+      spr_v_bridge_14: -800004645
+      spr_v_bridge_15: -1660325444
+      spr_v_bridge_16: 346165236
+      spr_v_bridge_17: -8155190
+      spr_v_bridge_2: -327692272
+      spr_v_bridge_3: -1250179292
+      spr_v_bridge_4: 310263848
+      spr_v_bridge_5: -627707618
+      spr_v_bridge_6: 1371440811
+      spr_v_bridge_7: 75233291
+      spr_v_bridge_8: 74042223
+      spr_v_bridge_9: -1109184810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

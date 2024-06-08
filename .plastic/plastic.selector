@@ -1,0 +1,4 @@
+repository "reLIFE@lvhn1601@cloud"
+  path "/"
+    smartbranch "/main/dev"                     
+     
